@@ -1,3 +1,82 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+# General
+baseURL = "/"
+title = "Ataides."
+
+# Language
+languageCode = "en-us"
+
+# Theme
+themesDir = "themes"
+theme = "serif"
+
+# Hugo
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+# Theme configs
+[params]
+  favicon = "favicon-32x32.ico"
+
+  [params.homepage]
+    sticky_header = true
+    show_contact_box = true
+    show_services_button = false
+
+  [params.logo]
+    desktop = "images/logo/logo.svg"
+    desktop_height = "32px"
+    mobile = "images/logo/logo-mobile.svg"
+    mobile_height = "36px"
+    alt = "Ataides. | Cloud & Compliance"
+
+  [params.fonts]
+    google_fonts = 'https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap'
+    heading = "Inter"
+    base = "Inter"
+
+  [params.colors]
+    primary = "#E82511"
+    black = "#000000"
+    white = "#FFFFFF"
+    white_offset = "#F6F7FF"
+    grey = "#5C5A5A"
+    #grey = "#E6E5E3"
+
+  [params.services]
+    summary_truncate = 120
+
+  [params.team]
+    summary_large_truncate = 120
+
+  [params.footer]
+    copyright_text = '© 2025 Lucas de Ataides Barreto Consultoria em Tecnologia LTDA. Registered in Brazil. All rights reserved.'
+
+[menu]
+  # Main Menu
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Services"
+    url = "/services/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+  # Footer Menu
+  [[menu.footer]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.footer]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 2

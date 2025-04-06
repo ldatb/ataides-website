@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Obligation-Free Consultation",
+    "description": "We offer a strategic, obligation-free consultation to understand your cloud, security, or compliance needs.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "Certified & Independent",
+    "description": "Led by certified experts in AWS, GCP, Azure, ISO 27001, and compliance frameworks like LGPD and GDPR - with full vendor neutrality.",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Cloud Compliance by Design",
+    "description": "We implement secure, audit-ready cloud environments aligned with ISO 27001, SOC 2, NIST, and privacy regulations.",
+    "image": "images/features/noun_The Process_1885341.svg"
+  }
+]

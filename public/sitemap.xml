@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>//localhost:1313/services/business-resilience/</loc>
+  </url><url>
+    <loc>//localhost:1313/services/cloud-compliance/</loc>
+  </url><url>
+    <loc>//localhost:1313/services/cloud-architecture/</loc>
+  </url><url>
+    <loc>//localhost:1313/services/cloud-security/</loc>
+  </url><url>
+    <loc>//localhost:1313/services/finops/</loc>
+  </url><url>
+    <loc>//localhost:1313/services/governance/</loc>
+  </url><url>
+    <loc>//localhost:1313/about/</loc>
+    <lastmod>2025-04-06T16:11:00-03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2025-04-06T16:11:00-03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/contact/</loc>
+    <lastmod>2025-04-06T16:09:00-03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/404/</loc>
+  </url><url>
+    <loc>//localhost:1313/services/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+  </url>
+</urlset>
