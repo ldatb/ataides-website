@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/services/business-resilience/</loc>
+    <loc>ataides.com/services/business-resilience/</loc>
   </url><url>
-    <loc>//localhost:1313/services/cloud-compliance/</loc>
+    <loc>ataides.com/services/cloud-compliance/</loc>
   </url><url>
-    <loc>//localhost:1313/services/cloud-architecture/</loc>
+    <loc>ataides.com/services/cloud-architecture/</loc>
   </url><url>
-    <loc>//localhost:1313/services/cloud-security/</loc>
+    <loc>ataides.com/services/cloud-security/</loc>
   </url><url>
-    <loc>//localhost:1313/services/finops/</loc>
+    <loc>ataides.com/services/finops/</loc>
   </url><url>
-    <loc>//localhost:1313/services/governance/</loc>
+    <loc>ataides.com/services/governance/</loc>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>ataides.com/about/</loc>
     <lastmod>2025-04-06T16:11:00-03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>ataides.com/</loc>
     <lastmod>2025-04-06T16:11:00-03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>ataides.com/contact/</loc>
     <lastmod>2025-04-06T16:09:00-03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>ataides.com/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/404/</loc>
+    <loc>ataides.com/404/</loc>
   </url><url>
-    <loc>//localhost:1313/services/</loc>
+    <loc>ataides.com/services/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>ataides.com/tags/</loc>
   </url>
 </urlset>
