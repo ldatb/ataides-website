@@ -20,4 +20,13 @@ We serve clients globally. Meetings are scheduled based on mutual availability, 
 | Saturday  | By request only  |
 | Sunday    | Closed           |
 
-Let’s build something resilient, compliant, and secure — together.
+## Contact Form
+
+To initiate a conversation or request a consultation, please complete the form below:
+
+[**Click here to open the contact form**](https://forms.office.com/r/nLanCPnTGe)
+_This form is secure, confidential, and typically takes less than 5 minutes to complete._
+
+We’ll review your message and respond within 1–2 business days.
+
+> Let’s build something resilient, compliant, and secure — together.
