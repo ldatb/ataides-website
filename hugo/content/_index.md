@@ -1,6 +1,6 @@
 ---
 title: 'Homepage'
-meta_title: Ataides. | Cloud, Compliance & Governance'
+meta_title: "Ataides."
 description: "Independent consulting in cloud architecture, security, and compliance. Built on trust, precision, and governance."
 intro_image: "images/illustrations/checks.jpg"
 intro_image_absolute: false

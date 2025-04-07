@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/Users/lucas/Workspace/repos/personal/ataides-website",
+	"sourceRoot": "/Users/lucas/Workspace/repos/personal/ataides-website/hugo",
 	"sources": [
 		"themes/serif/assets/scss/style.scss",
 		"themes/serif/assets/scss/_variables.scss",
