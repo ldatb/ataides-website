@@ -2,15 +2,13 @@
 title: "Terms of Service"
 ---
 
-> **Effective Date:** April 6, 2025
+> **Effective Date:** May 10, 2025
 
-Welcome to **Lucas de Ataides Barreto Consultoria em Tecnologia da Informação LTDA** (“we”, “our”, or “us”). These Terms of Service (“Terms”) govern your use of our website, `https://ataides.com`, and any content, materials, or communications made available through it.
-
-By accessing or using this site, you agree to be bound by these Terms. If you do not agree with them, please do not use the site.
+Welcome to **Lucas de Ataides Barreto Consultoria em Tecnologia da Informação LTDA** (“**Ataides**”, “we”, or “our firm”). These Terms of Service (“Terms”) govern your use of our website (`https://ataides.com`) and any information, content, or communication provided through it.
 
 ## 1. Website Purpose
 
-This website provides information about our consulting services in cloud architecture, governance, security, and compliance. All content is for informational purposes only and does not constitute legal, technical, or professional advice unless explicitly stated in a signed agreement.
+This website presents information about Ataides' cloud advisory services, including governance, security, and regulatory compliance. All content is for general informational purposes and does not constitute legal or technical advice unless expressly established in a signed engagement agreement.
 
 ## 2. Use of Site
 
@@ -24,9 +22,7 @@ We reserve the right to suspend or block access to anyone we believe is violatin
 
 ## 3. Intellectual Property
 
-All materials on this site - including text, branding, logos, layouts, and original content - are owned or licensed by **Lucas de Ataides Barreto Consultoria em Tecnologia da Informação LTDA** and are protected by applicable copyright, trademark, and intellectual property laws.
-
-You may not copy, reproduce, republish, or distribute any content from this site without prior written permission, except for personal, non-commercial use.
+All content, structure, and design elements - including text, marks, graphics, and layout - are proprietary to Ataides and protected under applicable intellectual property laws. Use is restricted to personal, non-commercial viewing unless prior written permission is obtained.
 
 ## 4. Third-Party Links
 
@@ -34,11 +30,11 @@ Our site may contain links to external sites or services. We are not responsible
 
 ## 5. No Guarantees or Warranties
 
-We make reasonable efforts to keep the information on this site accurate and up to date. However, all content is provided “as is,” without any warranties - express or implied - including, but not limited to, accuracy, completeness, or fitness for a particular purpose.
+All materials are provided “as is,” without any express or implied warranties, including fitness for a particular purpose, accuracy, or completeness. Ataides does not guarantee uninterrupted access or error-free operation of the website.
 
 ## 6. Limitation of Liability
 
-To the maximum extent permitted by law, we are not liable for any direct, indirect, incidental, or consequential damages arising out of your access to or use of this website. This includes loss of data, business interruption, or reputational harm.
+To the maximum extent permitted by applicable law, Ataides shall not be liable for any direct, indirect, incidental, or consequential damages resulting from your access to or use of this website — including, but not limited to, business disruption, data loss, or reputational impact.
 
 ## 7. Data and Privacy
 
@@ -66,4 +62,4 @@ If you have questions about these Terms, or wish to inquire about our services:
 
 📍 Brazil (serving international clients)
 
-*Thank you for visiting. We operate with transparency, integrity, and respect for our clients and their data.*
+*We thank you for your trust. Ataides operates with institutional clarity, discretion, and a commitment to protecting your data and strategic integrity.*

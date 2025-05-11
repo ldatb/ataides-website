@@ -2,11 +2,11 @@
 title: "Privacy Policy"
 ---
 
-> **Effective Date:** April 6, 2025
+> **Effective Date:** May 10, 2025
 
-**Lucas de Ataides Barreto Consultoria em Tecnologia da Informação LTDA** ("**we**", "**our**", or "**us**") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information when you visit our website, `https://ataides.com`, and when you engage with us through our contact forms, email communications, or consulting services.
+**Lucas de Ataides Barreto Consultoria em Tecnologia da Informação LTDA** ("**Ataides**", "**we**", or "**our firm**") is committed to safeguarding your personal data. This Privacy Policy outlines how we collect, use, disclose, and protect information when you interact with our website (`https://ataides.com`) or engage with our advisory services.
 
-This policy complies with the **Lei Geral de Proteção de Dados (LGPD)**, **General Data Protection Regulation (GDPR)**, and other applicable data protection regulations, including but not limited to the **California Consumer Privacy Act (CCPA)**.
+This Policy complies with applicable data protection laws, including the **Lei Geral de Proteção de Dados (LGPD)**, **General Data Protection Regulation (GDPR)**, and the **California Consumer Privacy Act (CCPA)**.
 
 ## 1. Information We Collect
 
@@ -41,7 +41,7 @@ We use your data for the following purposes:
 - To improve website functionality and user experience
 - To analyze anonymous traffic metrics via analytics tools
 
-We do **not** use your data for profiling or automated decision-making.
+Ataides does not engage in profiling, automated decision-making, or any form of data monetization.
 
 We do **not** sell or rent your personal data to third parties under any circumstances.
 
@@ -61,7 +61,7 @@ We only share your data when necessary and with trusted third-party service prov
 - **Microsoft 365 / Microsoft Forms**: communication and data capture
 - **Amazon Web Services (AWS)**: hosting and infrastructure
 
-All vendors are required to comply with data protection regulations and contractual confidentiality obligations.
+All third-party providers are contractually obligated to adhere to confidentiality and data protection requirements consistent with applicable law and Ataides' internal standards of integrity.
 
 ## 5. International Transfers
 
@@ -79,7 +79,7 @@ After this period, data is securely deleted or anonymized.
 
 ## 7. Your Rights
 
-You have the right to:
+As a data subject, you may exercise the following rights:
 
 - Access the personal data we hold about you
 - Request correction or deletion of inaccurate or outdated data
@@ -107,7 +107,7 @@ We implement administrative, technical, and physical safeguards to protect your 
 - Cloud provider security (AWS, Microsoft)
 - Limited retention and secure deletion procedures
 
-Despite these efforts, no system can guarantee 100% security. We encourage users to avoid sending sensitive information through open forms.
+While Ataides applies rigorous security practices, no system can guarantee absolute security. We recommend not transmitting sensitive or confidential data through open web forms.
 
 ## 10. Minors
 
@@ -129,4 +129,4 @@ If you have any questions or concerns regarding this Privacy Policy or our data 
 
 📍 Brazil (serving international clients)
 
-> We take your privacy seriously — and operate with transparency, responsibility, and full regulatory compliance.
+> Ataides treats your data with the same care we apply to cloud infrastructure: with neutrality, discretion, and regulatory precision.
