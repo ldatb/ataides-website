@@ -51,7 +51,7 @@ theme = "serif"
     summary_large_truncate = 120
 
   [params.footer]
-    copyright_text = '© 2025 Lucas de Ataides Barreto Consultoria em Tecnologia LTDA. Registered in Brazil. All rights reserved.'
+    copyright_text = '© 2025 LUCAS DE ATAIDES BARRETO CONSULTORIA EM TECNOLOGIA DA INFORMACAO LTDA. Registered in Brazil. All rights reserved.'
 
 [menu]
   # Main Menu

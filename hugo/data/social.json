@@ -13,15 +13,5 @@
         "name": "NIST CSF",
         "link": "https://www.nist.gov/cyberframework",
         "image": "images/frameworks/nist-csf.png"
-    },
-    {
-        "name": "GDPR",
-        "link": "https://gdpr-info.eu",
-        "image": "images/frameworks/gdpr.png"
-    },
-    {
-        "name": "LGDP",
-        "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm",
-        "image": "images/frameworks/lgpd.png"
     }
 ]
