@@ -11,7 +11,7 @@ This company was founded on a belief:
 
 We work with clients who understand that cloud is not just a technical layer, but a strategic asset. That uptime means nothing without **integrity**. And that scaling fast is irrelevant if you can't scale **safely**.
 
-![About Us](/images/70571821-be9a-4237-b52b-b0a0c7f788d5_cloud-compliance-illustration.png)
+![About Us](/images/cloud-compliance.png)
 
 ## Our Philosophy
 

@@ -61,18 +61,18 @@ theme = "serif"
     weight = 1
 
   [[menu.main]]
-    name = "Contact"
-    url = "/contact"
+    name = "About"
+    url = "/about"
     weight = 2
 
   [[menu.main]]
-    name = "How We Work"
-    url = "/how-we-work"
+    name = "Open Source"
+    url = "/open-source"
     weight = 3
 
   [[menu.main]]
-    name = "About"
-    url = "/about"
+    name = "Contact"
+    url = "/contact"
     weight = 4
 
   [[menu.main]]
@@ -82,11 +82,16 @@ theme = "serif"
 
   # Footer Menu
   [[menu.footer]]
+    name = "How We Work"
+    url = "/how-we-work"
+    weight = 1
+
+  [[menu.footer]]
     name = "Privacy Policy"
     url = "/privacy"
-    weight = 1
+    weight = 2
 
   [[menu.footer]]
     name = "Terms of Service"
     url = "/tos"
-    weight = 2
+    weight = 3

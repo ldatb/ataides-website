@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source on Ataides.</title>
+    <link>//localhost:1313/open-source/</link>
+    <description>Recent content in Open Source on Ataides.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notary</title>
+      <link>//localhost:1313/open-source/notary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/open-source/notary/</guid>
+      <description>&lt;p&gt;Compliance doesn&amp;rsquo;t start with the audit, it starts with how you store proof. Notary is an open-source, secure evidence vault designed to preserve the integrity, confidentiality, and traceability of technical compliance data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blueprints</title>
+      <link>//localhost:1313/open-source/blueprints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/open-source/blueprints/</guid>
+      <description>&lt;p&gt;A curated collection of Terraform modules that implement security and compliance best practices by default, with embedded metadata, audit-ready documentation, and cloud-agnostic design patterns.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

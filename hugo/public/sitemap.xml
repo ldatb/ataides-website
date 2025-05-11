@@ -4,7 +4,13 @@
   <url>
     <loc>//localhost:1313/services/cloud-governance/</loc>
   </url><url>
+    <loc>//localhost:1313/open-source/notary/</loc>
+  </url><url>
     <loc>//localhost:1313/services/finops/</loc>
+  </url><url>
+    <loc>//localhost:1313/open-source/signatory/</loc>
+  </url><url>
+    <loc>//localhost:1313/open-source/blueprints/</loc>
   </url><url>
     <loc>//localhost:1313/services/regulatory-compliance/</loc>
   </url><url>
@@ -28,6 +34,8 @@
     <loc>//localhost:1313/faq/</loc>
   </url><url>
     <loc>//localhost:1313/how-we-work/</loc>
+  </url><url>
+    <loc>//localhost:1313/open-source/</loc>
   </url><url>
     <loc>//localhost:1313/404/</loc>
   </url><url>

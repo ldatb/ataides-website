@@ -16,11 +16,32 @@
       <description>&lt;p&gt;Governance is not bureaucracy, it’s institutional discipline for cloud environments. Ataides delivers neutral, audit-aligned cloud governance architecture focused on control, clarity, and compliance readiness.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Notary</title>
+      <link>//localhost:1313/open-source/notary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/open-source/notary/</guid>
+      <description>&lt;p&gt;Compliance doesn&amp;rsquo;t start with the audit, it starts with how you store proof. Notary is an open-source, secure evidence vault designed to preserve the integrity, confidentiality, and traceability of technical compliance data.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>FinOps Architecture &amp; Cost Accountability</title>
       <link>//localhost:1313/services/finops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/services/finops/</guid>
       <description>&lt;p&gt;Cloud efficiency is not about cost-cutting, it’s about governance, visibility, and sustainable growth. Ataides helps organizations implement a FinOps architecture that aligns finance, engineering, and leadership around accountable, purposeful cloud usage.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Signatory</title>
+      <link>//localhost:1313/open-source/signatory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/open-source/signatory/</guid>
+      <description>&lt;p&gt;Compliance doesn&amp;rsquo;t stop at architecture, it extends to how decisions and approvals are recorded. Signatory is an open-source platform for secure, auditable signing of compliance-related documents and declarations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blueprints</title>
+      <link>//localhost:1313/open-source/blueprints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/open-source/blueprints/</guid>
+      <description>&lt;p&gt;A curated collection of Terraform modules that implement security and compliance best practices by default, with embedded metadata, audit-ready documentation, and cloud-agnostic design patterns.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Regulatory Compliance Architecture</title>
