@@ -7,6 +7,12 @@ Ataides works with organizations that demand institutional-grade trust in their 
 
 Here are some of the most common questions we receive:
 
+### Why do organizations trust Ataides?
+
+Trust is not given, it's earned through discipline, neutrality, and integrity. Ataides operates independently, without incentives from vendors or platforms. Our advisors are certified, experienced, and focused on long-term alignment with your risk, governance, and compliance needs.
+
+We believe that credibility comes from transparency, institutional clarity, and technical precision, and we structure every engagement to reflect those values.
+
 ### Do you work only with cloud-native companies?
 
 No. While we specialize in cloud architecture and governance, we also help companies transitioning from legacy infrastructure or hybrid environments. What matters most is your commitment to evolving with discipline and clarity.
@@ -46,6 +52,18 @@ We are based in Brazil and serve clients across the globe. All consultations can
 ### What does “Swiss-grade governance” mean?
 
 It means neutrality, discretion, and precision, applying institutional-level discipline to cloud architecture, security, and compliance. Like Swiss banks, we value trust, clarity, and strategic alignment above all.
+
+### What sets Ataides apart in terms of trust and independence?
+
+Ataides is vendor-neutral, financially independent, and driven by long-term integrity rather than short-term incentives. Our only obligation is to your governance, security, and compliance goals, not to specific tools or platforms.
+
+Every engagement is structured to reduce bias, clarify accountability, and operate with institutional transparency.
+
+### Do you offer private or confidential engagements?
+
+Yes. For clients operating under M&A, regulatory investigation, post-incident remediation, or heightened confidentiality requirements, we offer NDA-backed consulting with strict isolation from public channels or marketing.
+
+These engagements are designed to prioritize trust, discretion, and strategic sensitivity.
 
 ### How do I get started?
 

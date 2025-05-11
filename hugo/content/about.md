@@ -34,5 +34,29 @@ We aim for security, stability, and clarity at every layer.
 - Audit-Ready Infrastructure & Process Design
 - Policy as Code & Automation (Terraform, Kubernetes, Vault, OPA)
 
+## Why Trust Ataides
+
+We operate independently, free from vendor incentives or cloud provider bias. Our work is grounded in institutional discipline and regulatory clarity, built for teams that need more than just technical expertise: they need trust.
+
+- Vendor-neutral, architecture-first consulting  
+- Confidentiality and long-term client alignment  
+- Reputation built on clarity, not complexity
+
+## Regulatory Precision
+
+Compliance is not abstract, it’s technical. Ataides maps infrastructure components directly to the language of ISO 27001, SOC 2, NIST, and privacy frameworks like LGPD and GDPR. Every recommendation we deliver includes control mapping and evidence guidance.
+
+- Architecture-to-control traceability  
+- Evidence collection design (Vaultum integration)  
+- Control matrix alignment for auditors and CISOs
+
+## Private Engagements
+
+Some matters require deeper confidentiality. Ataides offers private consulting under strict NDA terms for clients dealing with sensitive regulatory, M&A, or post-incident transformation initiatives.
+
+- Strict confidentiality and isolation from marketing channels  
+- Custom threat models and compliance frameworks  
+- Direct access to principal consultants only
+
 Want to explore how Ataides can help your organization design trustworthy, compliant, and resilient cloud systems?
 [Request a confidential consultation](/contact)
