@@ -1,15 +1,14 @@
 ---
-title: "Cloud Security"
+title: "Security Architecture & Resilience"
 draft: false
 featured: true
-weight: 1
+weight: 6
 ---
 
-Cloud environments demand security that is not only robust, but scalable, automated, and compliant.
-We help organizations design and implement security architectures that are resilient by design, audit-ready, and aligned with business risk.
+Security is not an add-on, it is a foundational layer of trust, resilience, and institutional integrity. Ataides helps organizations implement security architectures that are resilient by design, audit-aligned, and proportional to business risk.
 <!--more-->
 
-# Objectives
+# Objectives of Security Architecture & Resilience Review
 
 The goal of Cloud Security is to ensure that:
 
@@ -23,11 +22,11 @@ Security isn't a plugin, it’s an architectural layer.
 
 We design cloud-native environments that enforce:
 
-- Identity & Access Management (IAM) with least privilege
-- Key Management Systems (KMS / BYOK)
-- Secret management via Vault, AWS Secrets Manager, etc.
-- Secure networking (zero-trust, VPC segmentation, firewall rules)
-- Infrastructure immutability and change control
+- Role-and-context-aware IAM (least privilege by architecture)
+- KMS integration and Bring Your Own Key (BYOK)
+- Secure secrets lifecycle management (Vault, AWS Secrets Manager, etc.)
+- Zero-trust network architecture and microsegmentation
+- Infrastructure immutability and tamper-evident change pipelines
 
 ## DevSecOps & Policy Automation
 
@@ -44,10 +43,10 @@ We embed security into your development and delivery lifecycle:
 
 We implement cloud-native observability that enhances both security posture and audit readiness:
 
-- Real-time threat detection (Falco, GuardDuty, Security Command Center)
-- Immutable logs with centralized storage and retention policies
-- Alert routing and triage procedures
-- Integration with SIEM platforms
+- Threat detection pipelines (Falco, GuardDuty, SCC)
+- Centralized, immutable log collection and forensic readiness
+- Alert governance and incident triage flow
+- Seamless integration with enterprise SIEM and response platforms
 
 ## Compliance-Ready Security
 
@@ -58,10 +57,6 @@ We align your security architecture with compliance expectations from:
 - SOC 2
 - LGPD & GDPR (privacy-by-default principles)
 
-> Security is what enables compliance — and builds trust with users, partners, and regulators.
-
----
-
-Security isn't a checklist, it's an operating principle.
+> Security is what enables compliance and builds trust with users, partners, and regulators.
 
 [→ Discuss your cloud security posture](/contact)

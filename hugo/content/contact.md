@@ -4,11 +4,11 @@ date: 2025-04-06T16:09:00-03:00
 layout: contact
 ---
 
-We operate with discretion, clarity, and purpose.
+We operate with neutrality, discretion, and institutional clarity.
 
-If you are exploring improvements in cloud architecture, compliance, or security - or would like to schedule a confidential consultation - we invite you to reach out.
+If your organization is evaluating improvements in cloud architecture, security posture, or regulatory alignment, Ataides offers confidential, high-trust engagements with global reach.
 
-We serve clients globally. Meetings are scheduled based on mutual availability, typically within the following windows (UTC-3):
+Meetings are scheduled based on mutual availability, typically within the following windows (UTC-3):
 
 | Day       | Availability     |
 | --------- | ---------------- |
@@ -22,11 +22,12 @@ We serve clients globally. Meetings are scheduled based on mutual availability, 
 
 ## Contact Form
 
-To initiate a conversation or request a consultation, please complete the form below:
+To request a private consultation, please complete the short intake form below:
 
-[**Click here to open the contact form**](https://forms.office.com/r/nLanCPnTGe)
-_This form is secure, confidential, and typically takes less than 5 minutes to complete._
+[**Open secure consultation form**](https://forms.office.com/r/nLanCPnTGe)
+
+_This process is secure, confidential, and structured to capture relevant context efficiently._
 
 We’ll review your message and respond within 1–2 business days.
 
-> Let’s build something resilient, compliant, and secure — together.
+> Security. Sovereignty. Sustainability. Let’s architect the future with trust.

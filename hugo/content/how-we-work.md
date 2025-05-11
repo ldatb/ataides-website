@@ -4,31 +4,28 @@ url: "/how-we-work"
 layout: page
 ---
 
-Our engagements are built around clarity, precision, and results.
+Our process is built on discretion, structure, and institutional clarity.
 
-We work with leadership and technical teams to design secure, scalable, and auditable cloud environments. Our process adapts to your needs, but always follows a core structure that ensures we deliver with purpose.
+Ataides works with organizations that demand strategic alignment, security assurance, and regulatory integrity, from architecture design to board-level insight.
 
-## 1. Discovery & Qualification
+### 1. Discovery & Qualification
 
-Before any engagement, we conduct a strategic discovery call to understand your context, goals, and constraints.
-We ask about your architecture, team structure, risk exposure, and regulatory pressure.
+We begin with a strategic intake session to understand your architecture, compliance obligations, internal structure, and business risk posture.
 
 You’ll walk away with:
 
-- A clear next step
-- Scope alignment
-- Mutual fit assessment
+- A shared understanding of objectives
+- Initial risk posture overview
+- Fit and feasibility assessment
 
-## 2. Scoped Proposal & Agreement
+### 2. Scoped Proposal & Agreement
 
-If there’s a fit, you receive a proposal with:
+If there’s alignment, we formalize the engagement with:
 
-- Objectives and scope
-- Deliverables and schedule
-- Pricing and format (fixed-fee, sprint, retainer)
-- NDA or confidentiality terms (if needed)
-
-No vague promises, just structured, actionable clarity.
+- Defined outcomes and scope
+- Work format (retainer, fixed-fee, sprints)
+- Milestones and expected inputs
+- Confidentiality or NDA terms (if applicable)
 
 ## 3. Structured Delivery
 
@@ -41,16 +38,13 @@ Engagements are executed with discipline:
 
 We prioritize quality over noise. Every session has purpose. Every artifact has value.
 
-## 4. Executive Visibility
+### 4. Executive & Audit Alignment
 
-For leadership or board-facing projects, we provide:
-
-- Executive summaries
-- Risk and compliance mapping
-- Visual assets (diagrams, dashboards, memos)
-- Presentation prep or direct briefing support
-
-We speak the language of architecture, audit, and the boardroom.
+For leadership and audit-facing workstreams, we provide:
+- Executive summaries tailored to non-technical stakeholders
+- Regulatory control mapping
+- Architecture diagrams and risk memos
+- Audit preparation or briefing materials
 
 ## 5. Transition & Follow-Up
 
@@ -72,12 +66,12 @@ We offer several engagement models depending on your needs:
 | Monthly retainer | Strategic advisory with reserved hours|
 | On-demand | Available for boards, migrations, or critical events |
 
-## Engagement Principles
+## Our Operating Principles
 
-- We’re vendor-neutral. No incentives, no lock-in.
-- We don’t oversell. If it’s not a fit, we’ll say it.
-- We speak your language. Whether you're a CEO or a DevOps engineer.
-- We deliver with clarity. Every engagement ends with something useful, usable, and defensible.
+- Neutral and independent: no vendors, no conflicts
+- Outcome-oriented: every engagement produces real artifacts
+- Role-aware: we adapt to both boardroom and engineering contexts
+- Integrity over sales: if it’s not a fit, we say so
 
 Want to see how this process applies to your case?
 [→ Schedule a discovery call](/contact)

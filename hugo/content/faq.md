@@ -3,7 +3,7 @@ title: "Frequently Asked Questions"
 layout: page
 ---
 
-We work with cloud-native, regulated, and growing companies to align their architecture with business, risk, and compliance goals.
+Ataides works with organizations that demand institutional-grade trust in their cloud environments, including those in regulated sectors, rapid growth phases, or under strategic scrutiny.
 
 Here are some of the most common questions we receive:
 
@@ -11,17 +11,17 @@ Here are some of the most common questions we receive:
 
 No. While we specialize in cloud architecture and governance, we also help companies transitioning from legacy infrastructure or hybrid environments. What matters most is your commitment to evolving with discipline and clarity.
 
-### If I already have an internal IT or DevOps team, why should I bring in external advisory?
+### What value do you add if we already have internal DevOps or Security teams?
 
-We complement internal teams by focusing on strategic alignment, governance, compliance, and long-term risk reduction. Our work often includes assessments, architecture reviews, or compliance guidance that require neutrality, specialization, or external validation.
+We bring external neutrality, regulatory specialization, and architectural clarity. Internal teams often focus on delivery, we focus on verification, compliance, and long-term resilience. We complement, not compete.
 
 ### Do you work with all cloud providers?
 
 Yes. We support the main cloud providers (AWS, Google Cloud, and Azure) and smaller ones, including multi-cloud and hybrid environments. We’re vendor-neutral and focus on what makes sense for your business, not just the provider.
 
-### Can you help us prepare for audits like ISO 27001 or SOC 2?
+### Can you support audit readiness for ISO 27001, SOC 2, or similar?
 
-Absolutely. We map your existing architecture and processes to the controls required by these standards, helping your team identify gaps and generate the technical evidence auditors will expect.
+Yes. We conduct architecture-to-control mapping, identify technical evidence gaps, and guide remediation to align with frameworks like ISO 27001 and SOC 2, helping you present an audit-ready environment with confidence.
 
 ### What frameworks do you follow?
 
@@ -42,6 +42,10 @@ We work with both startups and established organizations, typically those going 
 ### Where are you based? Do you work globally?
 
 We are based in Brazil and serve clients across the globe. All consultations can be conducted remotely and in English or Portuguese.
+
+### What does “Swiss-grade governance” mean?
+
+It means neutrality, discretion, and precision, applying institutional-level discipline to cloud architecture, security, and compliance. Like Swiss banks, we value trust, clarity, and strategic alignment above all.
 
 ### How do I get started?
 

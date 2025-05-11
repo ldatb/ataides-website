@@ -3,12 +3,11 @@ title: 'About'
 date: 2025-04-06T16:11:00-03:00
 ---
 
-
-Ataides is an independent consultant specializing in **Cloud Architecture**, **Security**, and **Compliance**. With experience across **AWS**, **GCP**, and **Azure**, our work is rooted in precision, discretion, and neutrality - delivering outcomes that align both with business goals and regulatory standards.
+Ataides is a neutral and independent cloud advisory firm. We specialize in Cloud Architecture, Security, and Compliance, helping organizations build audit-ready infrastructure with institutional-grade discipline across AWS, GCP, and Azure.
 
 This company was founded on a belief:
 
-> **Infrastructure should not only perform — it should protect, govern, and endure.**
+> **We don’t just engineer for performance, we engineer for resilience, sovereignty, and institutional trust.**
 
 We work with clients who understand that cloud is not just a technical layer, but a strategic asset. That uptime means nothing without **integrity**. And that scaling fast is irrelevant if you can't scale **safely**.
 
@@ -16,16 +15,16 @@ We work with clients who understand that cloud is not just a technical layer, bu
 
 ## Our Philosophy
 
-Inspired by principles often associated with Switzerland - **neutrality**, **institutional clarity**, **precision**, and **long-term trust** - our approach focuses on:
+Our philosophy is informed by the institutional rigor and neutrality of the Swiss model, guided by precision, discretion, and long-term alignment with clients' strategic and regulatory interests.
 
-- **Independent, cloud-agnostic advice**
-- **Confidential, high-trust relationships**
-- **Regulatory alignment by design** (LGPD, GDPR, ISO 27001, NIST, SOC 2)
-- **Architectural clarity and governance at scale**
-- **Documentation and communication that executives understand**
+- Cloud-agnostic, architecture-first thinking
+- Confidential, trust-driven engagements
+- Regulatory alignment as a baseline (ISO 27001, SOC 2, NIST, LGPD, GDPR)
+- Governance and clarity as engineering principles
+- Communication and documentation built for executive scrutiny
 
 We don’t aim for buzzwords or shortcuts.
-We aim for security, stability, and clarity - at every layer.
+We aim for security, stability, and clarity at every layer.
 
 ## Expertise Areas
 
@@ -35,5 +34,5 @@ We aim for security, stability, and clarity - at every layer.
 - Audit-Ready Infrastructure & Process Design
 - Policy as Code & Automation (Terraform, Kubernetes, Vault, OPA)
 
-Want to learn more or schedule a confidential consultation?
-[Reach out here](/contact)
+Want to explore how Ataides can help your organization design trustworthy, compliant, and resilient cloud systems?
+[Request a confidential consultation](/contact)

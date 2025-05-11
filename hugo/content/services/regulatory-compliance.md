@@ -1,15 +1,14 @@
 ---
-title: "Cloud Compliance"
+title: "Regulatory Compliance Architecture"
 draft: false
 featured: true
 weight: 3
 ---
 
-Compliance in the cloud requires more than policies, it requires architecture that aligns with regulatory expectations from the ground up.
-We help organizations build a clear, audit-ready cloud blueprint mapped to frameworks like ISO 27001, SOC 2, and NIST.
+Compliance is not a checklist, it is an architectural discipline. Ataides helps organizations design cloud environments that are secure, traceable, and audit-aligned from the ground up.
 <!--more-->
 
-# Objectives
+# Objectives of Regulatory Compliance Architecture
 
 The objective of the Cloud Compliance Blueprint is to:
 
@@ -19,7 +18,7 @@ The objective of the Cloud Compliance Blueprint is to:
 
 ## Framework Alignment
 
-We translate regulatory requirements into practical cloud-native architecture:
+We translate abstract compliance obligations into concrete, cloud-native architecture:
 
 - ISO/IEC 27001 (Annex A)
 - SOC 2 (Security, Availability, Confidentiality)
@@ -32,13 +31,13 @@ We translate regulatory requirements into practical cloud-native architecture:
 
 We review your cloud platform(s) (no matter the provider) and assess:
 
-- Logging, monitoring, and data retention
-- IAM roles and segregation of duties (SoD)
-- Encryption at rest and in transit
-- Key management and secrets storage
-- Backup and recovery strategy
-- Configuration management and change tracking
-- Network isolation and firewall rules
+- Logging, monitoring, and immutable retention policies
+- IAM design aligned with role clarity and segregation of duties (SoD)
+- Data encryption (at rest and in transit), KMS integration
+- Key custody, secrets lifecycle, and access governance
+- Backup validation, restore assurance, and RTO/RPO objectives
+- Infrastructure configuration baselines and change integrity
+- Network segmentation, firewall policies, and zero-trust enforcement
 
 All mapped directly to framework-specific control requirements.
 
@@ -61,7 +60,6 @@ Optional: we can support engineering teams during implementation.
 - Reduced compliance risk and future remediation effort
 - Documentation to support external assessments or due diligence
 
-Compliance isn’t a checkbox, it’s a design principle.
-With the right blueprint, your cloud becomes an asset, not an audit liability.
+> Compliance is not about passing an audit, it’s about proving institutional trust through architecture.
 
 [→ Schedule your Compliance Review](/contact)

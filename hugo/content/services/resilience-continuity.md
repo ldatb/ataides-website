@@ -1,15 +1,14 @@
 ---
-title: "Business Continuity Assessment"
+title: "Resilience & Continuity Readiness"
 draft: false
 featured: true
 weight: 4
 ---
 
-Availability isn't the same as resilience.
-We help organizations assess the real-world readiness of their cloud environments, identifying gaps in backup, recovery, and continuity through the lens of RTO, RPO, and business-critical impact.
+Availability is not resilience, and SLAs are not strategy. Ataides helps organizations assess and strengthen their cloud environments for real-world disruption, ensuring continuity with precision, visibility, and accountability.
 <!--more-->
 
-# Objectives
+# Objectives of Resilience & Continuity Readiness
 
 The objective of the Business Continuity & RTO/RPO Cloud-Based Assessment is to:
 
@@ -21,18 +20,18 @@ The objective of the Business Continuity & RTO/RPO Cloud-Based Assessment is to:
 
 We conduct a structured technical evaluation of your:
 
-- Backup frequency, encryption, and geographic redundancy
-- Disaster recovery design (warm, cold, multi-region)
-- Auto-scaling and failover architecture
-- State management for databases and persistent workloads
-- Recovery orchestration (manual vs. automated)
-- Dependencies: DNS, authentication, secrets, observability
+- Backup frequency, encryption, and multi-region durability
+- Disaster recovery posture (warm, cold, multi-zone, multi-cloud)
+- Auto-scaling, failover orchestration, and traffic shifting
+- State handling for databases, queues, and persistent volumes
+- Automated vs. manual recovery pipelines
+- Dependencies: DNS, identity, secrets, monitoring
 
 > Uptime means little if recovery takes hours or data is lost.
 
 ## RTO/RPO Modeling
 
-We work with your teams to define and validate:
+We help define and validate recovery expectations, tolerances, and impact trade-offs:
 
 - **RTO (Recovery Time Objective)**: how long can services be down?
 - **RPO (Recovery Point Objective)**: how much data can be lost?
@@ -59,7 +58,6 @@ You’ll receive a detailed continuity package including:
 - Foundation for ISO 22301, SOC 2 Availability Principle, or board-level reporting
 - Increased confidence across technical and executive stakeholders
 
-SLAs aren't strategy. True continuity planning requires visibility, priorities, and validation.
-We help you build infrastructure that not only scales, but survives.
+> True continuity isn’t about luck, it’s engineered into the architecture.
 
 [→ Request your Resilience & RTO/RPO Assessment](/contact)

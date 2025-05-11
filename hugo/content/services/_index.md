@@ -1,11 +1,11 @@
 ---
 title: 'Services'
-description: 'We offer a range of services to help your business'
+description: 'Neutral, audit-ready cloud advisory services focused on governance, architecture, security, and compliance.'
 intro_image: "images/illustrations/workspace.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
-# Strategic Services for Resilient, Compliant Cloud Operations
+# Swiss-Grade Advisory Services for Digital Sovereignty
 
-We offer tailored, high-trust consulting services focused on cloud architecture, security, governance, and regulatory compliance. Helping organizations scale with confidence, clarity and control is our objective.
+Ataides offers high-integrity, cloud-native consulting services for organizations requiring strategic alignment, regulatory resilience, and architecture built on trust. Every service is delivered with institutional clarity, confidentiality, and outcome-oriented precision.
