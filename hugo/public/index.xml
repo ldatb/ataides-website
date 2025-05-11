@@ -1,71 +1,103 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homepage on Ataides.</title><link>/</link><description>Recent content in Homepage on Ataides.</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 06 Apr 2025 16:11:00 -0300</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Cloud Governance &amp; IAM Hardening</title><link>/services/cloud-governance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/services/cloud-governance/</guid><description>&lt;p>Cloud governance isn&amp;rsquo;t bureaucracy — it&amp;rsquo;s infrastructure discipline at scale.
-We assess and strengthen your cloud access model and governance architecture to reduce risk, enhance visibility, and enable sustainable growth.&lt;/p></description></item><item><title>Cloud Security</title><link>/services/cloud-security/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/services/cloud-security/</guid><description>&lt;p>Cloud environments demand security that is not only robust, but scalable, automated, and compliant.
-We help organizations design and implement security architectures that are resilient by design, audit-ready, and aligned with business risk.&lt;/p></description></item><item><title>FinOps &amp; Cloud Cost Optimization</title><link>/services/finops/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/services/finops/</guid><description>&lt;p>Cloud spending without discipline becomes cloud waste.
-We help organizations implement a FinOps foundation that connects engineering, finance, and leadership, enabling scalable, cost-efficient, and accountable cloud operations.&lt;/p></description></item><item><title>Cloud Compliance</title><link>/services/cloud-compliance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/services/cloud-compliance/</guid><description>&lt;p>Compliance in the cloud requires more than policies, it requires architecture that aligns with regulatory expectations from the ground up.
-We help organizations build a clear, audit-ready cloud blueprint mapped to frameworks like ISO 27001, SOC 2, and NIST.&lt;/p></description></item><item><title>Business Continuity Assessment</title><link>/services/business-continuity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/services/business-continuity/</guid><description>&lt;p>Availability isn&amp;rsquo;t the same as resilience.
-We help organizations assess the real-world readiness of their cloud environments, identifying gaps in backup, recovery, and continuity through the lens of RTO, RPO, and business-critical impact.&lt;/p></description></item><item><title>Cloud Strategy Advisory</title><link>/services/cloud-strategy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/services/cloud-strategy/</guid><description>&lt;p>Independent insight. Strategic clarity.
-We provide high-level cloud advisory services for CTOs, VPs, and boards navigating critical decisions, offering a neutral perspective on architecture, risk, compliance, and growth.&lt;/p></description></item><item><title>About</title><link>/about/</link><pubDate>Sun, 06 Apr 2025 16:11:00 -0300</pubDate><guid>/about/</guid><description>&lt;p>Ataides is an independent consultant specializing in &lt;strong>Cloud Architecture&lt;/strong>, &lt;strong>Security&lt;/strong>, and &lt;strong>Compliance&lt;/strong>. With experience across &lt;strong>AWS&lt;/strong>, &lt;strong>GCP&lt;/strong>, and &lt;strong>Azure&lt;/strong>, our work is rooted in precision, discretion, and neutrality - delivering outcomes that align both with business goals and regulatory standards.&lt;/p>
-&lt;p>This company was founded on a belief:&lt;/p>
-&lt;blockquote>
-&lt;p>&lt;strong>Infrastructure should not only perform — it should protect, govern, and endure.&lt;/strong>&lt;/p>&lt;/blockquote>
-&lt;p>We work with clients who understand that cloud is not just a technical layer, but a strategic asset. That uptime means nothing without &lt;strong>integrity&lt;/strong>. And that scaling fast is irrelevant if you can&amp;rsquo;t scale &lt;strong>safely&lt;/strong>.&lt;/p></description></item><item><title>Contact</title><link>/contact/</link><pubDate>Sun, 06 Apr 2025 16:09:00 -0300</pubDate><guid>/contact/</guid><description>&lt;p>We operate with discretion, clarity, and purpose.&lt;/p>
-&lt;p>If you are exploring improvements in cloud architecture, compliance, or security - or would like to schedule a confidential consultation - we invite you to reach out.&lt;/p>
-&lt;p>We serve clients globally. Meetings are scheduled based on mutual availability, typically within the following windows (UTC-3):&lt;/p>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Day&lt;/th>
- &lt;th>Availability&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>Monday&lt;/td>
- &lt;td>9:00am – 6:00pm&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tuesday&lt;/td>
- &lt;td>9:00am – 6:00pm&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Wednesday&lt;/td>
- &lt;td>9:00am – 6:00pm&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Thursday&lt;/td>
- &lt;td>9:00am – 6:00pm&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Friday&lt;/td>
- &lt;td>9:00am – 6:00pm&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Saturday&lt;/td>
- &lt;td>By request only&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Sunday&lt;/td>
- &lt;td>Closed&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h2 id="contact-form">Contact Form&lt;/h2>
-&lt;p>To initiate a conversation or request a consultation, please complete the form below:&lt;/p></description></item><item><title>Frequently Asked Questions</title><link>/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/</guid><description>&lt;p>We work with cloud-native, regulated, and growing companies to align their architecture with business, risk, and compliance goals.&lt;/p>
-&lt;p>Here are some of the most common questions we receive:&lt;/p>
-&lt;h3 id="do-you-work-only-with-cloud-native-companies">Do you work only with cloud-native companies?&lt;/h3>
-&lt;p>No. While we specialize in cloud architecture and governance, we also help companies transitioning from legacy infrastructure or hybrid environments. What matters most is your commitment to evolving with discipline and clarity.&lt;/p>
-&lt;h3 id="if-i-already-have-an-internal-it-or-devops-team-why-should-i-bring-in-external-advisory">If I already have an internal IT or DevOps team, why should I bring in external advisory?&lt;/h3>
-&lt;p>We complement internal teams by focusing on strategic alignment, governance, compliance, and long-term risk reduction. Our work often includes assessments, architecture reviews, or compliance guidance that require neutrality, specialization, or external validation.&lt;/p></description></item><item><title>How We Work</title><link>/how-we-work/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/how-we-work/</guid><description>&lt;p>Our engagements are built around clarity, precision, and results.&lt;/p>
-&lt;p>We work with leadership and technical teams to design secure, scalable, and auditable cloud environments. Our process adapts to your needs, but always follows a core structure that ensures we deliver with purpose.&lt;/p>
-&lt;h2 id="1-discovery--qualification">1. Discovery &amp;amp; Qualification&lt;/h2>
-&lt;p>Before any engagement, we conduct a strategic discovery call to understand your context, goals, and constraints.
-We ask about your architecture, team structure, risk exposure, and regulatory pressure.&lt;/p></description></item><item><title>Page Not Found</title><link>/404/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/404/</guid><description>&lt;h1 id="this-page-doesnt-exist">This page doesn’t exist.&lt;/h1>
-&lt;p>The page you’re looking for might have been moved, renamed, or never existed.&lt;/p>
-&lt;p>If you believe this is an error, or if you&amp;rsquo;re trying to reach a specific resource, feel free to &lt;a href="/contact">contact us&lt;/a>.&lt;/p>
-&lt;p>&lt;a href="/">→ Return to Homepage&lt;/a>&lt;/p></description></item><item><title>Privacy Policy</title><link>/privacy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/privacy/</guid><description>&lt;blockquote>
-&lt;p>&lt;strong>Effective Date:&lt;/strong> April 6, 2025&lt;/p>&lt;/blockquote>
-&lt;p>&lt;strong>Lucas de Ataides Barreto Consultoria em Tecnologia da Informação LTDA&lt;/strong> (&amp;quot;&lt;strong>we&lt;/strong>&amp;quot;, &amp;ldquo;&lt;strong>our&lt;/strong>&amp;rdquo;, or &amp;ldquo;&lt;strong>us&lt;/strong>&amp;rdquo;) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information when you visit our website, &lt;code>https://ataides.com&lt;/code>, and when you engage with us through our contact forms, email communications, or consulting services.&lt;/p>
-&lt;p>This policy complies with the &lt;strong>Lei Geral de Proteção de Dados (LGPD)&lt;/strong>, &lt;strong>General Data Protection Regulation (GDPR)&lt;/strong>, and other applicable data protection regulations, including but not limited to the &lt;strong>California Consumer Privacy Act (CCPA)&lt;/strong>.&lt;/p></description></item><item><title>Terms of Service</title><link>/tos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tos/</guid><description>&lt;blockquote>
-&lt;p>&lt;strong>Effective Date:&lt;/strong> April 6, 2025&lt;/p>&lt;/blockquote>
-&lt;p>Welcome to &lt;strong>Lucas de Ataides Barreto Consultoria em Tecnologia da Informação LTDA&lt;/strong> (“we”, “our”, or “us”). These Terms of Service (“Terms”) govern your use of our website, &lt;code>https://ataides.com&lt;/code>, and any content, materials, or communications made available through it.&lt;/p>
-&lt;p>By accessing or using this site, you agree to be bound by these Terms. If you do not agree with them, please do not use the site.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on Ataides.</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Homepage on Ataides.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Apr 2025 16:11:00 -0300</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud Governance &amp; Role Architecture</title>
+      <link>//localhost:1313/services/cloud-governance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/cloud-governance/</guid>
+      <description>&lt;p&gt;Governance is not bureaucracy, it’s institutional discipline for cloud environments. Ataides delivers neutral, audit-aligned cloud governance architecture focused on control, clarity, and compliance readiness.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FinOps Architecture &amp; Cost Accountability</title>
+      <link>//localhost:1313/services/finops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/finops/</guid>
+      <description>&lt;p&gt;Cloud efficiency is not about cost-cutting, it’s about governance, visibility, and sustainable growth. Ataides helps organizations implement a FinOps architecture that aligns finance, engineering, and leadership around accountable, purposeful cloud usage.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Regulatory Compliance Architecture</title>
+      <link>//localhost:1313/services/regulatory-compliance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/regulatory-compliance/</guid>
+      <description>&lt;p&gt;Compliance is not a checklist, it is an architectural discipline. Ataides helps organizations design cloud environments that are secure, traceable, and audit-aligned from the ground up.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resilience &amp; Continuity Readiness</title>
+      <link>//localhost:1313/services/resilience-continuity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/resilience-continuity/</guid>
+      <description>&lt;p&gt;Availability is not resilience, and SLAs are not strategy. Ataides helps organizations assess and strengthen their cloud environments for real-world disruption, ensuring continuity with precision, visibility, and accountability.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Executive Cloud Advisory</title>
+      <link>//localhost:1313/services/cloud-strategy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/cloud-strategy/</guid>
+      <description>&lt;p&gt;Strategy is not about tools, it’s about foresight, alignment, and trust. Ataides provides vendor-neutral cloud advisory for leadership teams making critical decisions under complexity, risk, or regulatory scrutiny.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Security Architecture &amp; Resilience</title>
+      <link>//localhost:1313/services/cloud-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/cloud-security/</guid>
+      <description>&lt;p&gt;Security is not an add-on, it is a foundational layer of trust, resilience, and institutional integrity. Ataides helps organizations implement security architectures that are resilient by design, audit-aligned, and proportional to business risk.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Sun, 06 Apr 2025 16:11:00 -0300</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;Ataides is a neutral and independent cloud advisory firm. We specialize in Cloud Architecture, Security, and Compliance, helping organizations build audit-ready infrastructure with institutional-grade discipline across AWS, GCP, and Azure.&lt;/p&gt;&#xA;&lt;p&gt;This company was founded on a belief:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;We don’t just engineer for performance, we engineer for resilience, sovereignty, and institutional trust.&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;We work with clients who understand that cloud is not just a technical layer, but a strategic asset. That uptime means nothing without &lt;strong&gt;integrity&lt;/strong&gt;. And that scaling fast is irrelevant if you can&amp;rsquo;t scale &lt;strong&gt;safely&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Sun, 06 Apr 2025 16:09:00 -0300</pubDate>
+      <guid>//localhost:1313/contact/</guid>
+      <description>&lt;p&gt;We operate with neutrality, discretion, and institutional clarity.&lt;/p&gt;&#xA;&lt;p&gt;If your organization is evaluating improvements in cloud architecture, security posture, or regulatory alignment, Ataides offers confidential, high-trust engagements with global reach.&lt;/p&gt;&#xA;&lt;p&gt;Meetings are scheduled based on mutual availability, typically within the following windows (UTC-3):&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Day&lt;/th&gt;&#xA;          &lt;th&gt;Availability&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Monday&lt;/td&gt;&#xA;          &lt;td&gt;9:00am – 6:00pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tuesday&lt;/td&gt;&#xA;          &lt;td&gt;9:00am – 6:00pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Wednesday&lt;/td&gt;&#xA;          &lt;td&gt;9:00am – 6:00pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Thursday&lt;/td&gt;&#xA;          &lt;td&gt;9:00am – 6:00pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Friday&lt;/td&gt;&#xA;          &lt;td&gt;9:00am – 6:00pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Saturday&lt;/td&gt;&#xA;          &lt;td&gt;By request only&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Sunday&lt;/td&gt;&#xA;          &lt;td&gt;Closed&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;contact-form&#34;&gt;Contact Form&lt;/h2&gt;&#xA;&lt;p&gt;To request a private consultation, please complete the short intake form below:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>//localhost:1313/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/faq/</guid>
+      <description>&lt;p&gt;Ataides works with organizations that demand institutional-grade trust in their cloud environments, including those in regulated sectors, rapid growth phases, or under strategic scrutiny.&lt;/p&gt;&#xA;&lt;p&gt;Here are some of the most common questions we receive:&lt;/p&gt;&#xA;&lt;h3 id=&#34;do-you-work-only-with-cloud-native-companies&#34;&gt;Do you work only with cloud-native companies?&lt;/h3&gt;&#xA;&lt;p&gt;No. While we specialize in cloud architecture and governance, we also help companies transitioning from legacy infrastructure or hybrid environments. What matters most is your commitment to evolving with discipline and clarity.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How We Work</title>
+      <link>//localhost:1313/how-we-work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/how-we-work/</guid>
+      <description>&lt;p&gt;Our process is built on discretion, structure, and institutional clarity.&lt;/p&gt;&#xA;&lt;p&gt;Ataides works with organizations that demand strategic alignment, security assurance, and regulatory integrity, from architecture design to board-level insight.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-discovery--qualification&#34;&gt;1. Discovery &amp;amp; Qualification&lt;/h3&gt;&#xA;&lt;p&gt;We begin with a strategic intake session to understand your architecture, compliance obligations, internal structure, and business risk posture.&lt;/p&gt;&#xA;&lt;p&gt;You’ll walk away with:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A shared understanding of objectives&lt;/li&gt;&#xA;&lt;li&gt;Initial risk posture overview&lt;/li&gt;&#xA;&lt;li&gt;Fit and feasibility assessment&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-scoped-proposal--agreement&#34;&gt;2. Scoped Proposal &amp;amp; Agreement&lt;/h3&gt;&#xA;&lt;p&gt;If there’s alignment, we formalize the engagement with:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Page Not Found</title>
+      <link>//localhost:1313/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/404/</guid>
+      <description>&lt;h1 id=&#34;this-page-doesnt-exist&#34;&gt;This page doesn’t exist.&lt;/h1&gt;&#xA;&lt;p&gt;The page you’re looking for might have been moved, renamed, or never existed.&lt;/p&gt;&#xA;&lt;p&gt;If you believe this is an error, or if you&amp;rsquo;re trying to reach a specific resource, feel free to &lt;a href=&#34;//localhost:1313/contact&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;//localhost:1313/&#34;&gt;→ Return to Homepage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>//localhost:1313/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/privacy/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Effective Date:&lt;/strong&gt; May 10, 2025&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lucas de Ataides Barreto Consultoria em Tecnologia da Informação LTDA&lt;/strong&gt; (&amp;quot;&lt;strong&gt;Ataides&lt;/strong&gt;&amp;quot;, &amp;ldquo;&lt;strong&gt;we&lt;/strong&gt;&amp;rdquo;, or &amp;ldquo;&lt;strong&gt;our firm&lt;/strong&gt;&amp;rdquo;) is committed to safeguarding your personal data. This Privacy Policy outlines how we collect, use, disclose, and protect information when you interact with our website (&lt;code&gt;https://ataides.com&lt;/code&gt;) or engage with our advisory services.&lt;/p&gt;&#xA;&lt;p&gt;This Policy complies with applicable data protection laws, including the &lt;strong&gt;Lei Geral de Proteção de Dados (LGPD)&lt;/strong&gt;, &lt;strong&gt;General Data Protection Regulation (GDPR)&lt;/strong&gt;, and the &lt;strong&gt;California Consumer Privacy Act (CCPA)&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Terms of Service</title>
+      <link>//localhost:1313/tos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tos/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Effective Date:&lt;/strong&gt; May 10, 2025&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Welcome to &lt;strong&gt;Lucas de Ataides Barreto Consultoria em Tecnologia da Informação LTDA&lt;/strong&gt; (“&lt;strong&gt;Ataides&lt;/strong&gt;”, “we”, or “our firm”). These Terms of Service (“Terms”) govern your use of our website (&lt;code&gt;https://ataides.com&lt;/code&gt;) and any information, content, or communication provided through it.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-website-purpose&#34;&gt;1. Website Purpose&lt;/h2&gt;&#xA;&lt;p&gt;This website presents information about Ataides&amp;rsquo; cloud advisory services, including governance, security, and regulatory compliance. All content is for general informational purposes and does not constitute legal or technical advice unless expressly established in a signed engagement agreement.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,7 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Services on Ataides.</title><link>/services/</link><description>Recent content in Services on Ataides.</description><generator>Hugo</generator><language>en-us</language><atom:link href="/services/index.xml" rel="self" type="application/rss+xml"/><item><title>Cloud Governance &amp; IAM Hardening</title><link>/services/cloud-governance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/services/cloud-governance/</guid><description>&lt;p>Cloud governance isn&amp;rsquo;t bureaucracy — it&amp;rsquo;s infrastructure discipline at scale.
-We assess and strengthen your cloud access model and governance architecture to reduce risk, enhance visibility, and enable sustainable growth.&lt;/p></description></item><item><title>Cloud Security</title><link>/services/cloud-security/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/services/cloud-security/</guid><description>&lt;p>Cloud environments demand security that is not only robust, but scalable, automated, and compliant.
-We help organizations design and implement security architectures that are resilient by design, audit-ready, and aligned with business risk.&lt;/p></description></item><item><title>FinOps &amp; Cloud Cost Optimization</title><link>/services/finops/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/services/finops/</guid><description>&lt;p>Cloud spending without discipline becomes cloud waste.
-We help organizations implement a FinOps foundation that connects engineering, finance, and leadership, enabling scalable, cost-efficient, and accountable cloud operations.&lt;/p></description></item><item><title>Cloud Compliance</title><link>/services/cloud-compliance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/services/cloud-compliance/</guid><description>&lt;p>Compliance in the cloud requires more than policies, it requires architecture that aligns with regulatory expectations from the ground up.
-We help organizations build a clear, audit-ready cloud blueprint mapped to frameworks like ISO 27001, SOC 2, and NIST.&lt;/p></description></item><item><title>Business Continuity Assessment</title><link>/services/business-continuity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/services/business-continuity/</guid><description>&lt;p>Availability isn&amp;rsquo;t the same as resilience.
-We help organizations assess the real-world readiness of their cloud environments, identifying gaps in backup, recovery, and continuity through the lens of RTO, RPO, and business-critical impact.&lt;/p></description></item><item><title>Cloud Strategy Advisory</title><link>/services/cloud-strategy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/services/cloud-strategy/</guid><description>&lt;p>Independent insight. Strategic clarity.
-We provide high-level cloud advisory services for CTOs, VPs, and boards navigating critical decisions, offering a neutral perspective on architecture, risk, compliance, and growth.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Ataides.</title>
+    <link>//localhost:1313/services/</link>
+    <description>Recent content in Services on Ataides.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud Governance &amp; Role Architecture</title>
+      <link>//localhost:1313/services/cloud-governance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/cloud-governance/</guid>
+      <description>&lt;p&gt;Governance is not bureaucracy, it’s institutional discipline for cloud environments. Ataides delivers neutral, audit-aligned cloud governance architecture focused on control, clarity, and compliance readiness.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FinOps Architecture &amp; Cost Accountability</title>
+      <link>//localhost:1313/services/finops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/finops/</guid>
+      <description>&lt;p&gt;Cloud efficiency is not about cost-cutting, it’s about governance, visibility, and sustainable growth. Ataides helps organizations implement a FinOps architecture that aligns finance, engineering, and leadership around accountable, purposeful cloud usage.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Regulatory Compliance Architecture</title>
+      <link>//localhost:1313/services/regulatory-compliance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/regulatory-compliance/</guid>
+      <description>&lt;p&gt;Compliance is not a checklist, it is an architectural discipline. Ataides helps organizations design cloud environments that are secure, traceable, and audit-aligned from the ground up.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resilience &amp; Continuity Readiness</title>
+      <link>//localhost:1313/services/resilience-continuity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/resilience-continuity/</guid>
+      <description>&lt;p&gt;Availability is not resilience, and SLAs are not strategy. Ataides helps organizations assess and strengthen their cloud environments for real-world disruption, ensuring continuity with precision, visibility, and accountability.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Executive Cloud Advisory</title>
+      <link>//localhost:1313/services/cloud-strategy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/cloud-strategy/</guid>
+      <description>&lt;p&gt;Strategy is not about tools, it’s about foresight, alignment, and trust. Ataides provides vendor-neutral cloud advisory for leadership teams making critical decisions under complexity, risk, or regulatory scrutiny.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Security Architecture &amp; Resilience</title>
+      <link>//localhost:1313/services/cloud-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/cloud-security/</guid>
+      <description>&lt;p&gt;Security is not an add-on, it is a foundational layer of trust, resilience, and institutional integrity. Ataides helps organizations implement security architectures that are resilient by design, audit-aligned, and proportional to business risk.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
